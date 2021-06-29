@@ -1,7 +1,8 @@
-title: Default Page
+title: Home Page in Plugin
 preset: page
 fields:
   text:
     label: Text
     type: textarea
     size: large
+  demoField: fields/demo
