@@ -5,4 +5,4 @@ fields:
     label: Text
     type: textarea
     size: large
-  demoField: fields/demo
+  demoField: fields/demoField
